@@ -15,7 +15,12 @@ body {
 }
 
 .cabecalho-imagem{
-   
+    border-radius: 20px;
+    width: 15%;
+}
+
+.cabecalho-texto{
+    font-size: 100px;
 }
 
 .cabecalho-lista-item{
@@ -26,6 +31,7 @@ body {
 
 .escola-imagem{
     width: 25%;
+    border-radius: 20px;
 }
 
 .escola{
@@ -51,6 +57,7 @@ body {
 }
 .estudante-imagem{
     width: 120px;
+    border-radius: 20px;
 }
 
 .estudante-icone{
